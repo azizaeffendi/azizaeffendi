@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aziza Effendi
+# Muhammad Aziz A Effendi
 
 ### I Build Digital Systems That Grow Businesses
 
