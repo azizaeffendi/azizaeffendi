@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Aziz A Effendi
+# Aziza Effendi
 
 ### I Build Digital Systems That Grow Businesses
 
@@ -172,6 +172,7 @@ Delivered web and application solutions for large companies and corporations acr
 | Repository | What It Does |
 |------------|-------------|
 | [🏥 ai-clinic-ecosystem](https://github.com/azizaeffendi/ai-clinic-ecosystem) | Full AI-powered beauty clinic OS — facial detection, booking, marketing automation & accounting in one system |
+| [🤖 solo-ai-agency-blueprint](https://github.com/azizaeffendi/solo-ai-agency-blueprint) | Operational roadmap to build a $5k/month solo AI agency — Digital Employees, zero friction delivery |
 | [🎯 marketingskills](https://github.com/azizaeffendi/marketingskills) | 41 AI agent skills for marketing — CRO, SEO, copywriting, paid ads & automation |
 
 > More projects being published — building in public.
