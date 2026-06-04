@@ -71,6 +71,13 @@ Delivered web and application solutions for large companies and corporations acr
 | 🛡️ **Insurance Agencies** | Quote engines, lead capture systems, policy management platforms |
 | 🏭 **Manufacturers & Wholesalers** | B2B portals, inventory systems, order & supply chain automation |
 | 🏠 **Real Estate Agencies** | Property listing platforms, CRM integration, lead nurturing automation |
+| 🚗 **Rental & Travel** | Vehicle/property rental systems, tour booking platforms, itinerary automation |
+| 🍽️ **Restaurant & F&B** | Online ordering systems, reservation management, loyalty & delivery integration |
+| 🎓 **Education & E-Learning** | LMS platforms, course marketplaces, student management & progress tracking |
+| 🏨 **Hotels & Hospitality** | Booking engines, guest management, channel manager & revenue automation |
+| 💆 **Wellness & Beauty** | Appointment systems, AI-powered diagnostics, membership & retention automation |
+| 🎪 **Events & Wedding** | Event registration platforms, vendor management, ticketing & guest portals |
+| 🛒 **E-Commerce & Retail** | Custom storefronts, inventory automation, multi-channel selling & analytics |
 
 ---
 
